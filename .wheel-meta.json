@@ -1,0 +1,22 @@
+{
+  "wheel_id": 955,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-114",
+  "project": "renovation-builders-brisbane-materials-compared-2ef358de0a67240",
+  "parent_t1_ref": "brisbanerenovation-160",
+  "node_role": "feeder",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane materials compared",
+  "intended_url": "https://sitesau.github.io/brisbanerenovation-114/",
+  "tier": "T2",
+  "writeback_nonce": "096957b46262095a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/renovation-builders-brisbane-quotes-explained-34ad0164b3f0f49b5/",
+      "anchor": "the renovation builders brisbane quotes explained overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
